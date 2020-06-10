@@ -6,7 +6,7 @@
 - Deployed the application on Firebase using the Firebase CLI
 - Responsive & Easy to use Web App, working on adding PWA..
 
-##### NOTE: API keys have been hidden for security reasons, though you can create your own key on Google Cloud Platform. Hosted Firebase for the same reason.
+##### NOTE: API keys have been hidden for security reasons, though you can create your own key on Google Cloud Platform. Hosted on Firebase for the same reason.
 
 ## Steps:
 
