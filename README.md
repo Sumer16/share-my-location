@@ -3,6 +3,7 @@
 - A location sharing app developed using OOP JavaScript.
 - Track locations using the current location & also retrieve an address using the geocodes.
 - Used Google Maps API and learnt how to consume it.
+- Deployed the application on Firebase using the Firebase CLI
 - Responsive & Easy to use Web App, working on adding PWA..
 
 ##### NOTE: API keys have been hidden for security reasons, though you can create your own key on Google Cloud Platform. 
